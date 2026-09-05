@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# Linux System Health Monitor
-# Bash automation entry point
-
 PROJECT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
 cd "$PROJECT_DIR" || {
