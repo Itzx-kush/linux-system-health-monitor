@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+*.tmp
+
+logs/*
+!logs/.gitkeep
+
+reports/*
+!reports/.gitkeep
